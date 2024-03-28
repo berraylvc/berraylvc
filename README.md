@@ -1,4 +1,4 @@
  I’m Berra Özyalvaç
-- 🌱 I’m currently learning HTML and JAVA
+- 🌱 I’m currently learning C# and Unity 
 - 📫 How to reach me
   ozyalvacberra@gmail.com
